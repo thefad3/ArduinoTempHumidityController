@@ -1,0 +1,18 @@
+.blockOutline{
+    border: 5px solid #fff;
+    padding: 15px;
+    border-radius: 20px;
+}
+
+.humid{
+    color: rgb(97, 97, 97);
+    font-size: 50px;
+    background-color: transparent;
+    text-shadow: rgb(224, 224, 224) 1px 1px 0px;
+}
+.temp{
+    color: rgb(97, 97, 97);
+    font-size: 50px;
+    background-color: transparent;
+    text-shadow: rgb(224, 224, 224) 1px 1px 0px;
+}
